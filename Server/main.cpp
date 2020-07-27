@@ -17,6 +17,6 @@ int main(int argc, char* argv[]){
     else 
         cout << "IP: " << ip << endl;    
 
-
+    cout << "bye :)" << endl;
     return 0;
 }
